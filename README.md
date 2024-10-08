@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/ho7tPHaTCyIAAAAC/brent-rambo-thumbsup.gif"  />
+  <img height="350" width="300" src="https://media1.tenor.com/m/ho7tPHaTCyIAAAAC/brent-rambo-thumbsup.gif"  />
 </div>
 
 ###
