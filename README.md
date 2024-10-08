@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/62c81ca0cc546cfc0bae606679685f21/tumblr_oilw2jDN0e1r21hllo1_500.gifv"  />
+  <img height="200" src="https://media1.tenor.com/m/ho7tPHaTCyIAAAAC/brent-rambo-thumbsup.gif"  />
 </div>
 
 ###
